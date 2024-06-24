@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Litza Nieves
-Nieves.Litza@gmail.com
-Once I found the fil in my folder I put all of the corrisponding text from the directions in a paragraph element so you can view them in a webpage.
-My directions were a little different than the directios given. I am assuming it is because of me being on a MacBook. I had to selelct extra options to clone the file. 
-</p>
+Name:Litza Nieves
+Email:Nieves.Litza@gmail.com
+Once I found the file in my desktop folder I put all of the corresponding text. 
+My directions were a little different than the directios given. I am assuming it is because of me being on a MacBook. I had to selelct extra options to clone the file but it was fairly close to the directions given. 
+
 
 
